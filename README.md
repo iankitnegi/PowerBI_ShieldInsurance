@@ -104,7 +104,7 @@ This table contains information about policy settlement
 - Microsoft Excel, Power Query was used to clean and transform raw data.
 - From fact_settlement, remove the empty columns
 - From fact_premiums, split sales_mode columns by delimiter '-' & renamed as Mode: Online/Offline , Mode: Through Medium
-- Check all the data types & changed into necessary data type
+- Check all the data types & changed into necessary data type. Example: Settlement % 
 
 
 # 4. ANALYZE
