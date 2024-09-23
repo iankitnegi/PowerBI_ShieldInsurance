@@ -132,11 +132,23 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 
 # 6. ACT	
 ### Insights:	
-- 
+- **Customer Base:** Shield Insurance has a total of 26,841 customers.
+- **Revenue:** The company generated a total revenue of 989.25 million.
+- **Top City:** Delhi leads with 11,007 customers and revenue of 401.57 million, making it the top-performing region.
+- **Top Age Group:** The 31-40 age group has the largest customer base with 11,171 customers, contributing the highest revenue of 343.76 million. This shows the company's strong appeal to younger and middle-aged demographics.
+- **Monthly Trends:** March 2023 saw remarkable growth with an 85% increase in revenue and 82% rise in customer numbers. However, April 2023 experienced a sharp decline, with revenue dropping by 41.73% and customers by 41.41%.
+- **Sales Channel:** The offline agent channel accounts for 55.41% of customers and 55.67% of total revenue, indicating that traditional agent-based sales remain the primary business driver.
+- **Revenue by Sales Mode:** Revenue distribution across sales modes is fairly balanced, with percentages ranging from 12.60% to 16.27%.
+- **Top Policy by Customers:** Policy ID “POL4321HEL” is the most popular, with 4,434 customers choosing it for their insurance needs.
+- **Top Policy by Revenue:** Policy ID “POL2005HEL” has generated the highest revenue, amounting to 324.26 million.
 
 
 ### Recommendations:	
-- 
+- **Focus on Digital Channels:** While the offline agent channel dominates, increasing investment in digital sales channels could diversify customer acquisition and boost revenue.
+- **Target Younger Demographics:** Continue to engage the 31-40 age group with tailored offerings, as they contribute the highest customer base and revenue.
+- **Address Monthly Fluctuations:** Investigate the reasons behind the sharp decline in April 2023 to prevent future drops and ensure consistent growth.
+- **Promote Top-Performing Policies:** Highlight and expand marketing efforts around popular policies like "POL4321HEL" and high-revenue policies like "POL2005HEL."
 
-Thank you for reading and evaluating my repo :)	                                								
-Live Dashboard [Link](https://public.tableau.com/app/profile/ankit.negi7687/viz/MarketResearchDashboardEVHybridVehiclesIndustryAnalysis/MainPage)
+
+Thank you for reading and evaluating my repo :)                          	                                								
+Live Dashboard [Link]()
