@@ -1,7 +1,7 @@
 Shield Insurance Company provides reliable and comprehensive insurance plans for individuals and businesses, ensuring protection from various risks. Known for its commitment to customer care and security, Shield stands out in the market for its focus on coverage reliability, helping customers feel safe and secure.
 
-# Problem Statement  
-
+# Problem Statement    
+Shield Insurance aims to improve its data-driven decision-making by implementing a Power BI dashboard for actionable insights into key performance metrics. To evaluate this, they are considering a collaboration with AtliQ Technologies. As a Proof of Concept, Shield Insurance requires a Pilot Project in Power BI to demonstrate AtliQ’s capability to meet their specific needs before committing to a full-scale project.
 
 ## 1. ASK  
 ### Questions: Preliminary Analysis  
@@ -95,6 +95,10 @@ Power BI was used to analyze data.
 - DCG: Daily Customer Growth (DCR) measures the average daily increase in the customer base during a specific month. It's calculated by dividing the total new customers acquired in a month by the number of unique dates within that month.
 
 DCR provides insights into the daily growth rate of the customer base, helping evaluate the company's ability to attract and retain customers on a day-to-day basis.
+
+
+### Data Modelling:    
+![Screenshot 2024-09-23 211849](https://github.com/user-attachments/assets/eeda14a6-e3c2-4f51-bf67-46a04bebad2c)
 
 
 ### New Column:  
