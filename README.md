@@ -128,6 +128,8 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - Total Revenue = SUM(fact_premiums[final_premium_amt(INR)])
 
 # 5. SHARE
+![Screenshot (304)](https://github.com/user-attachments/assets/0f9017aa-32ac-42b9-b034-b15200bdbc04)
+
 
 
 # 6. ACT	
@@ -150,5 +152,5 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - **Promote Top-Performing Policies:** Highlight and expand marketing efforts around popular policies like "POL4321HEL" and high-revenue policies like "POL2005HEL."
 
 
-Thank you for reading and evaluating my repo :)                          	                                								
+Thank you for reading and evaluating my repo :)      	                                    	                                								
 Live Dashboard [Link]()
