@@ -129,7 +129,8 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 
 # 5. SHARE
 ![Screenshot (304)](https://github.com/user-attachments/assets/0f9017aa-32ac-42b9-b034-b15200bdbc04)
-
+![Screenshot (305)](https://github.com/user-attachments/assets/491f1022-7a2f-4132-b696-79f122a98673)
+![Screenshot (306)](https://github.com/user-attachments/assets/06e43f90-4df1-4a5d-a99f-185a11fbd22d)
 
 
 # 6. ACT	
