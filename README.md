@@ -128,9 +128,12 @@ DCR provides insights into the daily growth rate of the customer base, helping e
 - Total Revenue = SUM(fact_premiums[final_premium_amt(INR)])
 
 # 5. SHARE
-![Screenshot (304)](https://github.com/user-attachments/assets/0f9017aa-32ac-42b9-b034-b15200bdbc04)
-![Screenshot (305)](https://github.com/user-attachments/assets/491f1022-7a2f-4132-b696-79f122a98673)
-![Screenshot (306)](https://github.com/user-attachments/assets/06e43f90-4df1-4a5d-a99f-185a11fbd22d)
+![Screenshot (309)](https://github.com/user-attachments/assets/5927ac1f-62b3-4480-b003-4acd370f7ebd)
+![Screenshot (310)](https://github.com/user-attachments/assets/5c68c5b8-fa8b-4e1d-8f3d-7bae07c34589)
+![Screenshot (311)](https://github.com/user-attachments/assets/c97a4674-6b4a-4eca-bc41-929efe37f54d)
+![Screenshot (312)](https://github.com/user-attachments/assets/44f4ac83-3688-44a0-a670-d35df17ef822)
+![Screenshot (313)](https://github.com/user-attachments/assets/7225885e-4d64-4931-8ac6-bd4c3687569a)
+
 
 
 # 6. ACT	
